@@ -18,3 +18,7 @@ Full issue:
 
 * Cavalier Daily.  Published on 2015-04-09.  Retrieved on 2019-03-28. 
 https://issuu.com/cavalierdaily/docs/040915
+
+Richmond Times Dispatch: 
+
+* 2014-2015: http://data.richmond.com/salaries/2014/state 
