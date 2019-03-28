@@ -12,7 +12,7 @@ Orginial Cav Daily Database:
 
 Cav Daily Article: 
 
-* Cavalier Daily Staff.  "University releases medical school, health system faculty salary data."  The Cavalier Daily. Published on 2015-04-09.  Retrieved on 2019-03-28. http://www.cavalierdaily.com/article/2015/04/university-releases-medical-school-health-system-faculty-salary-data 
+* Cavalier Daily Staff.  "University releases medical school, health system faculty salary data."  _The Cavalier Daily_. Published on 2015-04-09.  Retrieved on 2019-03-28. http://www.cavalierdaily.com/article/2015/04/university-releases-medical-school-health-system-faculty-salary-data 
 
 Full issue: 
 
